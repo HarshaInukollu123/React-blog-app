@@ -4,7 +4,7 @@ function Navbar() {
     <nav className='navbar'>
       <h1>My BlogApp</h1>
         <div className="links">
-          <a href='/'> Home </a>
+          <a href='/'> Home </a> 
           <a href="/create" style={{
                    color: 'white',
                    backgroundColor: '#f1356d',
